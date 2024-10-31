@@ -1,0 +1,1092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revolution for Elementor\n"
+"POT-Creation-Date: 2018-05-07 12:26+0200\n"
+"PO-Revision-Date: 2018-05-07 12:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/freemius\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: dist\n"
+
+#: admin/admin.php:133
+msgid "Activate Elementor"
+msgstr "Elementor aktivieren"
+
+#: admin/admin.php:138
+msgid "Install Elementor"
+msgstr "Elementor installieren"
+
+#: admin/admin.php:144
+msgid ""
+"<strong>Revolution for Elementor</strong> needs the <strong>Elementor</"
+"strong> plugin to work. Please install and activate <strong>Elementor</"
+"strong>"
+msgstr ""
+"<strong>Revolution for Elementor</strong> braucht das <strong>Elementor</"
+"strong> Plugin um zu funktionieren. Bitte installiere und aktiviere "
+"<strong>Elementor</strong>"
+
+#: admin/settings-api.php:437
+msgid "Choose File"
+msgstr "Datei auswählen"
+
+#: admin/settings.php:112
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/settings.php:113
+msgid ""
+"Here you can disable widgets from Revolution for Elementor. If disabled, a "
+"widget will no longer be available in the Elementor editor panel."
+msgstr ""
+"Hier kannst du Widgets von Revolution for Elementor deaktivieren. Wenn ein "
+"Widget deaktiviert wurde, erscheint es nicht mehr im Elementor Editor Panel "
+"und kann nicht mehr auf der Seite angezeigt werden."
+
+#: admin/settings.php:118
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+#: admin/settings.php:119
+msgid ""
+"Revolution for Elementor extensions are features added to the default "
+"Elementor elements. They display additional controls that can be found under "
+"the Advanced tab of each element. Below you can disable any extensions. If "
+"disabled, these additional controls will no longer be available in the "
+"Elementor editor panel."
+msgstr ""
+"Die Erweiterungen von Revolution for Elementor sind zusätzliche Funktionen, "
+"die zu bestehenden Elementor Widgets hinzugefügt werden. Das können "
+"beispielsweise zusätzliche Einstellungen sein. Hier kannst du einzelne "
+"Erweiterungen deaktivieren. Wenn eine Erweiterung deaktiviert wurde, "
+"erscheinen die entsprechenden Einstellungen nicht mehr im Elementor Editor "
+"Panel und die zusätzlichen Funktionen funktionieren nicht mehr."
+
+#: admin/settings.php:125
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: admin/settings.php:175 admin/settings.php:238
+msgid "Warning"
+msgstr "Warnung"
+
+#: admin/settings.php:177
+msgid ""
+"You need Elementor installed and activated to enable or disable widgets."
+msgstr ""
+"Elementor muss installiert und aktiviert sein um Widgets zu aktivieren oder "
+"deaktivieren."
+
+#: admin/settings.php:202 admin/settings.php:261
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/settings.php:209
+msgid ""
+"You need Elementor Pro installed and activated for this widget to be "
+"available."
+msgstr ""
+
+#: admin/settings.php:240
+msgid ""
+"You need Elementor installed and activated to enable or disable extensions."
+msgstr ""
+
+#: admin/settings.php:278
+msgid "Taxonomy Related Content"
+msgstr "Taxonomieabhängiger Inhalt"
+
+#: admin/settings.php:279
+msgid ""
+"When enabled, Revolution for Elementor adds a new post type \"Taxonomy "
+"Related\". This post type lets you define layouts which you can inject into "
+"posts, based on the posts terms, using the Taxonomy Related widget."
+msgstr ""
+
+#: admin/settings.php:283 includes/controls/groups/star-rating.php:65
+#: includes/extensions/flex-columns.php:54 includes/extensions/particles.php:69
+#: includes/extensions/particles.php:235 includes/extensions/particles.php:424
+#: includes/extensions/particles.php:441 includes/extensions/particles.php:458
+#: includes/extensions/particles.php:542 includes/extensions/particles.php:559
+#: includes/extensions/particles.php:576 includes/extensions/particles.php:643
+#: includes/extensions/particles.php:727 includes/extensions/particles.php:789
+#: includes/extensions/particles.php:807 includes/extensions/particles.php:857
+#: includes/extensions/particles.php:875 includes/widgets/advanced-list.php:319
+#: includes/widgets/advanced-list.php:472
+#: includes/widgets/advanced-list.php:483
+#: includes/widgets/advanced-list.php:497
+#: includes/widgets/advanced-list.php:511
+#: includes/widgets/advanced-list.php:615
+#: includes/widgets/advanced-list.php:717
+#: includes/widgets/advanced-list.php:844
+#: includes/widgets/advanced-list.php:853
+#: includes/widgets/advanced-list.php:864
+#: includes/widgets/advanced-list.php:1094
+#: includes/widgets/advanced-list.php:1106
+#: includes/widgets/advanced-list.php:1223
+#: includes/widgets/advanced-list.php:1233 includes/widgets/term-list.php:142
+#: includes/widgets/term-list.php:171 includes/widgets/term-list.php:188
+#: includes/widgets/term-list.php:196 includes/widgets/term-list.php:204
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/settings.php:284 includes/controls/groups/star-rating.php:64
+#: includes/extensions/flex-columns.php:55 includes/extensions/particles.php:70
+#: includes/extensions/particles.php:234 includes/extensions/particles.php:423
+#: includes/extensions/particles.php:440 includes/extensions/particles.php:457
+#: includes/extensions/particles.php:541 includes/extensions/particles.php:558
+#: includes/extensions/particles.php:575 includes/extensions/particles.php:642
+#: includes/extensions/particles.php:726 includes/extensions/particles.php:788
+#: includes/extensions/particles.php:806 includes/extensions/particles.php:856
+#: includes/extensions/particles.php:874 includes/widgets/advanced-list.php:318
+#: includes/widgets/advanced-list.php:473
+#: includes/widgets/advanced-list.php:482
+#: includes/widgets/advanced-list.php:496
+#: includes/widgets/advanced-list.php:510
+#: includes/widgets/advanced-list.php:614
+#: includes/widgets/advanced-list.php:716
+#: includes/widgets/advanced-list.php:845
+#: includes/widgets/advanced-list.php:854
+#: includes/widgets/advanced-list.php:863
+#: includes/widgets/advanced-list.php:1093
+#: includes/widgets/advanced-list.php:1105
+#: includes/widgets/advanced-list.php:1222
+#: includes/widgets/advanced-list.php:1232 includes/widgets/term-list.php:141
+#: includes/widgets/term-list.php:170 includes/widgets/term-list.php:187
+#: includes/widgets/term-list.php:195 includes/widgets/term-list.php:203
+msgid "No"
+msgstr "Nein"
+
+#: admin/settings.php:302 includes/base/extension.php:203
+#: includes/base/extension.php:229 includes/plugin.php:370
+msgid "Revolution for Elementor"
+msgstr "Revolution for Elementor"
+
+#: includes/controls/groups/star-rating.php:39
+#: includes/widgets/advanced-list.php:289 includes/widgets/star-rating.php:84
+msgid "Rating"
+msgstr "Bewertung"
+
+#: includes/controls/groups/star-rating.php:51
+#: includes/widgets/advanced-list.php:303
+msgid "Max Rating"
+msgstr "Maximale Bewertung"
+
+#: includes/controls/groups/star-rating.php:62
+#: includes/widgets/advanced-list.php:316
+msgid "Show Rating Numbers"
+msgstr "Zeige Nummern"
+
+#: includes/controls/groups/star-rating.php:68
+#: includes/widgets/advanced-list.php:322
+msgid "Whether or not to show numbers next to the stars."
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:73
+#: includes/widgets/advanced-list.php:329
+msgid "Rating Separator"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:82
+#: includes/widgets/advanced-list.php:190
+#: includes/widgets/advanced-list.php:339
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:91
+#: includes/widgets/advanced-list.php:199
+#: includes/widgets/advanced-list.php:349
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:100
+#: includes/widgets/advanced-list.php:224
+#: includes/widgets/advanced-list.php:359
+msgid "Min Fraction Digits"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:111
+#: includes/widgets/advanced-list.php:235
+#: includes/widgets/advanced-list.php:371
+msgid "Max Fraction Digits"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:122
+#: includes/widgets/advanced-list.php:383
+msgid "Numbers Position"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:127
+#: includes/widgets/advanced-list.php:388
+msgid "Before"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:131
+#: includes/widgets/advanced-list.php:392
+msgid "After"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:135
+#: includes/widgets/advanced-list.php:396
+msgid "Above"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:139
+#: includes/widgets/advanced-list.php:400
+msgid "Below"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:150
+#: includes/widgets/advanced-list.php:411
+msgid "Number Spacing"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:163
+#: includes/widgets/advanced-list.php:425
+msgid "Star Color"
+msgstr ""
+
+#: includes/controls/groups/star-rating.php:174
+#: includes/widgets/advanced-list.php:437
+msgid "Number Color"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:27
+msgid ""
+"Use Flexbox styling on columns without writing CSS. The settings can be "
+"found on columns under Style &rarr; Revolution &rarr; Flexbox"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:42
+msgid "Flexbox"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:51
+msgid "Enable Flexbox"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:62
+msgid "Flex Direction"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:78
+#: includes/widgets/advanced-list.php:665
+#: includes/widgets/advanced-list.php:1242
+msgid "Align Items"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:95
+#: includes/extensions/flex-columns.php:113
+#: includes/widgets/advanced-list.php:682
+#: includes/widgets/advanced-list.php:1258
+msgid "Justify Content"
+msgstr ""
+
+#: includes/extensions/flex-columns.php:131
+msgid "Flex Wrap"
+msgstr ""
+
+#: includes/extensions/particles.php:28
+msgid ""
+"Add particle effects to the background of sections. The settings can be "
+"found on sections under Advanced &rarr; Revolution &rarr; Particles"
+msgstr ""
+
+#: includes/extensions/particles.php:44 includes/extensions/particles.php:66
+#: includes/extensions/particles.php:128
+msgid "Particles"
+msgstr ""
+
+#: includes/extensions/particles.php:54
+msgid ""
+"Particles should not be activated if the \"Stretch Section\" setting is "
+"enabled. If you activate it, it might get distorted"
+msgstr ""
+
+#: includes/extensions/particles.php:82 includes/widgets/advanced-list.php:109
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: includes/extensions/particles.php:86
+msgid ""
+"Upgrade to the premium version of this plugin to enable custom particle "
+"settings."
+msgstr ""
+
+#: includes/extensions/particles.php:88 includes/widgets/advanced-list.php:115
+msgid "Upgrade Now!"
+msgstr ""
+
+#: includes/extensions/particles.php:96 includes/widgets/advanced-list.php:481
+#: includes/widgets/advanced-list.php:495
+#: includes/widgets/advanced-list.php:509
+#: includes/widgets/advanced-list.php:523
+#: includes/widgets/advanced-list.php:545
+#: includes/widgets/advanced-list.php:567
+#: includes/widgets/advanced-list.php:589
+#: includes/widgets/advanced-list.php:623
+#: includes/widgets/advanced-list.php:640
+#: includes/widgets/advanced-list.php:654
+#: includes/widgets/advanced-list.php:668
+#: includes/widgets/advanced-list.php:686
+#: includes/widgets/advanced-list.php:715
+#: includes/widgets/advanced-list.php:729
+msgid "Default"
+msgstr ""
+
+#: includes/extensions/particles.php:97
+msgid "NASA"
+msgstr ""
+
+#: includes/extensions/particles.php:98
+msgid "Bubble"
+msgstr ""
+
+#: includes/extensions/particles.php:99
+msgid "Snow"
+msgstr ""
+
+#: includes/extensions/particles.php:103
+msgid "Custom"
+msgstr ""
+
+#: includes/extensions/particles.php:109
+msgid "Particle Style"
+msgstr ""
+
+#: includes/extensions/particles.php:140 includes/widgets/advanced-list.php:759
+#: includes/widgets/advanced-list.php:1011
+#: includes/widgets/advanced-list.php:1039
+#: includes/widgets/advanced-list.php:1067
+#: includes/widgets/advanced-list.php:1180
+msgid "Color"
+msgstr ""
+
+#: includes/extensions/particles.php:151
+msgid "Particle Color"
+msgstr ""
+
+#: includes/extensions/particles.php:168 includes/widgets/term-list.php:303
+msgid "Link Color"
+msgstr ""
+
+#: includes/extensions/particles.php:187
+msgid "Stroke Color"
+msgstr ""
+
+#: includes/extensions/particles.php:201 includes/widgets/advanced-list.php:143
+#: includes/widgets/advanced-list.php:179
+msgid "Number"
+msgstr ""
+
+#: includes/extensions/particles.php:214
+msgid "Number of Particles"
+msgstr ""
+
+#: includes/extensions/particles.php:225
+msgid "The total amount of particles on the canvas."
+msgstr ""
+
+#: includes/extensions/particles.php:232
+msgid "Enable Density"
+msgstr ""
+
+#: includes/extensions/particles.php:243
+msgid ""
+"Enable this setting to make the amount of particles dynamic and dependent on "
+"the screen size."
+msgstr ""
+
+#: includes/extensions/particles.php:268
+msgid "Shape"
+msgstr ""
+
+#: includes/extensions/particles.php:281
+msgid "Stroke Width"
+msgstr ""
+
+#: includes/extensions/particles.php:298
+msgid "Particle Type"
+msgstr ""
+
+#: includes/extensions/particles.php:303
+msgid "Circle"
+msgstr ""
+
+#: includes/extensions/particles.php:304
+msgid "Edge"
+msgstr ""
+
+#: includes/extensions/particles.php:305
+msgid "Triangle"
+msgstr ""
+
+#: includes/extensions/particles.php:306
+msgid "Polygon"
+msgstr ""
+
+#: includes/extensions/particles.php:307
+msgid "Star"
+msgstr ""
+
+#: includes/extensions/particles.php:308 includes/widgets/advanced-list.php:144
+msgid "Image"
+msgstr ""
+
+#: includes/extensions/particles.php:320
+msgid "Sides"
+msgstr ""
+
+#: includes/extensions/particles.php:338
+msgid "Particle Image"
+msgstr ""
+
+#: includes/extensions/particles.php:355
+msgid "Image Width"
+msgstr ""
+
+#: includes/extensions/particles.php:373
+msgid "Image Height"
+msgstr ""
+
+#: includes/extensions/particles.php:391 includes/widgets/advanced-list.php:264
+msgid "Size"
+msgstr ""
+
+#: includes/extensions/particles.php:404
+msgid "Particle Size"
+msgstr ""
+
+#: includes/extensions/particles.php:421
+msgid "Randomise Size"
+msgstr ""
+
+#: includes/extensions/particles.php:438 includes/extensions/particles.php:556
+msgid "Enable Animation"
+msgstr ""
+
+#: includes/extensions/particles.php:455 includes/extensions/particles.php:573
+msgid "Sync Animation"
+msgstr ""
+
+#: includes/extensions/particles.php:473 includes/extensions/particles.php:591
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/extensions/particles.php:491
+msgid "Min Particle Size"
+msgstr ""
+
+#: includes/extensions/particles.php:509 includes/extensions/particles.php:675
+msgid "Opacity"
+msgstr ""
+
+#: includes/extensions/particles.php:522
+msgid "Particle Opacity"
+msgstr ""
+
+#: includes/extensions/particles.php:539
+msgid "Randomise Opacity"
+msgstr ""
+
+#: includes/extensions/particles.php:609
+msgid "Min Particle Opacity"
+msgstr ""
+
+#: includes/extensions/particles.php:627
+msgid "Link Line"
+msgstr ""
+
+#: includes/extensions/particles.php:640
+msgid "Enable Particle Links"
+msgstr ""
+
+#: includes/extensions/particles.php:657
+msgid "Distance"
+msgstr ""
+
+#: includes/extensions/particles.php:693 includes/widgets/advanced-list.php:770
+#: includes/widgets/advanced-list.php:1111
+msgid "Width"
+msgstr ""
+
+#: includes/extensions/particles.php:711
+msgid "Move"
+msgstr ""
+
+#: includes/extensions/particles.php:724
+msgid "Enable Particle Movement"
+msgstr ""
+
+#: includes/extensions/particles.php:741
+msgid "Direction"
+msgstr ""
+
+#: includes/extensions/particles.php:746 includes/widgets/advanced-list.php:734
+#: includes/widgets/advanced-list.php:1149
+msgid "None"
+msgstr ""
+
+#: includes/extensions/particles.php:747
+msgid "Top"
+msgstr ""
+
+#: includes/extensions/particles.php:748
+msgid "Top Right"
+msgstr ""
+
+#: includes/extensions/particles.php:749 includes/widgets/advanced-list.php:626
+#: includes/widgets/advanced-list.php:972 includes/widgets/star-rating.php:123
+#: includes/widgets/term-list.php:286
+msgid "Right"
+msgstr ""
+
+#: includes/extensions/particles.php:750
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/extensions/particles.php:751
+msgid "Bottom"
+msgstr ""
+
+#: includes/extensions/particles.php:752
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/extensions/particles.php:753 includes/widgets/advanced-list.php:624
+#: includes/widgets/advanced-list.php:964 includes/widgets/star-rating.php:115
+#: includes/widgets/term-list.php:278
+msgid "Left"
+msgstr ""
+
+#: includes/extensions/particles.php:754
+msgid "Top Left"
+msgstr ""
+
+#: includes/extensions/particles.php:767
+msgid "Out Mode"
+msgstr ""
+
+#: includes/extensions/particles.php:772
+msgid "Out"
+msgstr ""
+
+#: includes/extensions/particles.php:773
+msgid "Bounce"
+msgstr ""
+
+#: includes/extensions/particles.php:786
+msgid "Randomise Movement"
+msgstr ""
+
+#: includes/extensions/particles.php:804
+msgid "Straigth Movement"
+msgstr ""
+
+#: includes/extensions/particles.php:822
+msgid "Speed"
+msgstr ""
+
+#: includes/extensions/particles.php:840
+msgid "Behaviour"
+msgstr ""
+
+#: includes/extensions/particles.php:854
+msgid "Bouncing Particles"
+msgstr ""
+
+#: includes/extensions/particles.php:872
+msgid "Attracting Particles"
+msgstr ""
+
+#: includes/extensions/particles.php:890
+msgid "Rotate X"
+msgstr ""
+
+#: includes/extensions/particles.php:909
+msgid "Rotate Y"
+msgstr ""
+
+#: includes/extensions/particles.php:930
+msgid "Interactivity"
+msgstr ""
+
+#: includes/plugin.php:429 includes/plugin.php:439
+#: includes/widgets/taxonomy-related.php:99
+msgid "Categories"
+msgstr ""
+
+#: includes/plugin.php:430
+msgid "Category"
+msgstr ""
+
+#: includes/plugin.php:431
+msgid "Search Category"
+msgstr ""
+
+#: includes/plugin.php:432
+msgid "All Categories"
+msgstr ""
+
+#: includes/plugin.php:433
+msgid "Parent Category"
+msgstr ""
+
+#: includes/plugin.php:434
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/plugin.php:435
+msgid "Edit Category"
+msgstr ""
+
+#: includes/plugin.php:436
+msgid "Update Category"
+msgstr ""
+
+#: includes/plugin.php:437
+msgid "Add New Category"
+msgstr ""
+
+#: includes/plugin.php:438
+msgid "New Category Name"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:46
+msgid "Advanced List"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:84 includes/widgets/term-list.php:212
+msgid "List"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:113
+msgid ""
+"Upgrade to the premium version of this plugin to get even more types and "
+"features."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:124
+#: includes/widgets/advanced-list.php:277
+#: includes/widgets/advanced-list.php:1030
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:130
+#: includes/widgets/advanced-list.php:1002
+msgid "Label"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:142
+#: includes/widgets/advanced-list.php:163 includes/widgets/star-rating.php:103
+#: includes/widgets/term-list.php:264
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:145
+msgid "WYSIWYG"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:149 includes/widgets/star-rating.php:47
+msgid "Star Rating"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:153
+msgid "Item Type"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:171
+msgid "Enter your text"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:172
+msgid "Add Your Text Here"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:208
+msgid "Prefix"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:216
+msgid "Suffix"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:250
+msgid "Choose Image"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:282
+msgid "I am text block. Click edit button to change this text."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:450
+#: includes/widgets/advanced-list.php:1058
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:455
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:467
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:470
+msgid "Custom Layout"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:478
+#: includes/widgets/advanced-list.php:842
+msgid "Show Label"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:492
+msgid "Show Empty Item"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:506
+#: includes/widgets/advanced-list.php:861
+msgid "Show Separator"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:520
+#: includes/widgets/advanced-list.php:870
+msgid "Item HTML Tag"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:535
+#: includes/widgets/advanced-list.php:884
+msgid "The HTML element in which to wrap the items."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:542
+#: includes/widgets/advanced-list.php:888
+msgid "Label HTML Tag"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:560
+#: includes/widgets/advanced-list.php:902 includes/widgets/term-list.php:161
+msgid "The HTML element in which to wrap the label."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:564
+#: includes/widgets/advanced-list.php:906
+msgid "Separator HTML Tag"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:582
+#: includes/widgets/advanced-list.php:920
+msgid "The HTML element in which to wrap the separator."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:586
+#: includes/widgets/advanced-list.php:924
+msgid "Content HTML Tag"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:604
+#: includes/widgets/advanced-list.php:938
+msgid ""
+"The HTML element in which to wrap the content. Not applied if content is a "
+"WYSIWYG field."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:609
+#: includes/widgets/advanced-list.php:1142 includes/widgets/term-list.php:209
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:612
+msgid "Custom Style"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:620
+#: includes/widgets/advanced-list.php:960 includes/widgets/star-rating.php:111
+#: includes/widgets/term-list.php:274
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:625
+#: includes/widgets/advanced-list.php:968 includes/widgets/star-rating.php:119
+#: includes/widgets/term-list.php:282
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:627
+#: includes/widgets/advanced-list.php:976 includes/widgets/star-rating.php:127
+#: includes/widgets/term-list.php:290
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:633
+#: includes/widgets/advanced-list.php:980
+msgid ""
+"How to align the content of each item. Has no effect if using the flex item "
+"style (CSS flexbox)."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:637
+#: includes/widgets/advanced-list.php:1220
+msgid "Item Flex"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:641
+#: includes/widgets/advanced-list.php:655
+msgid "no"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:642
+#: includes/widgets/advanced-list.php:656
+msgid "yes"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:651
+#: includes/widgets/advanced-list.php:1230
+msgid "Prevent Label Shrinking"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:703
+#: includes/widgets/advanced-list.php:1086 includes/widgets/term-list.php:213
+#: includes/widgets/term-list.php:219
+msgid "Separator"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:712
+#: includes/widgets/advanced-list.php:1103
+msgid "Inline Block"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:726
+msgid "Separator Style"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:730
+#: includes/widgets/advanced-list.php:1145
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:731
+#: includes/widgets/advanced-list.php:1146
+msgid "Dotted"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:732
+#: includes/widgets/advanced-list.php:1147
+msgid "Dashed"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:733
+#: includes/widgets/advanced-list.php:1148
+msgid "Double"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:743
+#: includes/widgets/advanced-list.php:1160
+msgid "Weight"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:786
+#: includes/widgets/advanced-list.php:1128
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:808
+msgid "List Items"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:813
+msgid "Item #1"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:817
+msgid "Item #2"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:821
+msgid "Item #3"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:837
+msgid "List Layout"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:851
+msgid "Show Empty Items"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:857
+msgid ""
+"Whether or not to show items which have no content. Deactivate this if you "
+"use dynamic content (e. g. from custom fields) and want items without "
+"content to disappear."
+msgstr ""
+
+#: includes/widgets/advanced-list.php:949
+msgid "Text Style"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:954
+msgid "General"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:984 includes/widgets/star-rating.php:140
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:1091
+msgid "Flexible Separator"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:1194
+msgid "Item Style"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:1199
+msgid "Rows Gap"
+msgstr ""
+
+#: includes/widgets/advanced-list.php:1226
+msgid ""
+"When activated, use flexbox display for the items. This can be used to "
+"achieve a similar look to the price list module (display label and content "
+"next to each other, even if using block element tags)."
+msgstr ""
+
+#: includes/widgets/dynamic-template.php:42
+msgid "Dynamic Template"
+msgstr ""
+
+#: includes/widgets/dynamic-template.php:83
+msgid "Template"
+msgstr ""
+
+#: includes/widgets/dynamic-template.php:91
+msgid "Template ID"
+msgstr ""
+
+#: includes/widgets/dynamic-template.php:96
+msgid "Enter your template ID"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:43
+msgid "Taxonomy Related"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:92
+msgid "Layouts"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:104
+msgid ""
+"Here you can choose the Taxonomy Related categories from which layouts "
+"should be displayed. If you leave this field empty, all categories will be "
+"used."
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:109 includes/widgets/term-list.php:228
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:113
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:114
+msgid "WordPress"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:115
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:116
+msgid "Menu Order"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:121 includes/widgets/term-list.php:243
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:125 includes/widgets/term-list.php:248
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/taxonomy-related.php:126 includes/widgets/term-list.php:252
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/term-list.php:44
+msgid "Term List"
+msgstr ""
+
+#: includes/widgets/term-list.php:123
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/widgets/term-list.php:130
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/widgets/term-list.php:139
+msgid "Show Taxonomy Label"
+msgstr ""
+
+#: includes/widgets/term-list.php:147
+msgid "Label Element"
+msgstr ""
+
+#: includes/widgets/term-list.php:168
+msgid "Show Empty Taxonomy"
+msgstr ""
+
+#: includes/widgets/term-list.php:180
+msgid "Terms"
+msgstr ""
+
+#: includes/widgets/term-list.php:185
+msgid "Show Post Counts"
+msgstr ""
+
+#: includes/widgets/term-list.php:193
+msgid "Show Hierarchy"
+msgstr ""
+
+#: includes/widgets/term-list.php:201
+msgid "Show Empty Terms"
+msgstr ""
+
+#: includes/widgets/term-list.php:231
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/term-list.php:232
+msgid "ID"
+msgstr ""
+
+#: includes/widgets/term-list.php:233
+msgid "Slug"
+msgstr ""
+
+#: includes/widgets/term-list.php:234
+msgid "Count"
+msgstr ""
+
+#: includes/widgets/term-list.php:235
+msgid "Term Group"
+msgstr ""
+
+#: includes/widgets/term-list.php:368
+#, php-format
+msgid "No %s"
+msgstr ""

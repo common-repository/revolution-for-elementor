@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+canvas.particles-js-canvas-el {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.rfe-star-rating-wrapper {
+    display: inline-flex;
+    overflow: hidden;
+}
+
+.rfe-star-rating-number-left,
+.rfe-star-rating-number-right,
+.rfe-star-rating-number-up,
+.rfe-star-rating-number-down {
+    display: flex;
+    margin: auto;
+}
+
+.rfe-star-rating-number-left {
+    flex-direction: row-reverse;
+}
+
+.rfe-star-rating-number-right {
+    flex-direction: row;
+}
+
+.rfe-star-rating-number-up {
+    flex-direction: column-reverse;
+}
+
+.rfe-star-rating-number-down {
+    flex-direction: column;
+}
